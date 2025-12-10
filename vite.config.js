@@ -7,5 +7,5 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
-  base: "The-Countries" // ← حط هنا اسم الريبو على GitHub
+  base: "/The-Countries/"
 })
